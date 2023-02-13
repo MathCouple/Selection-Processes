@@ -1,4 +1,4 @@
-# All code was written on the CodeSignal platform.
+# All code was written on the CodeSignal platform. Python required.
 
 ## I scored 352/450
 
